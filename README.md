@@ -1,4 +1,4 @@
-# GreaceCollectionResolver
+# GraceCollectionResolver
 Keyed DI allows to register services with common interface independently in different places
 
 HowTo register:
